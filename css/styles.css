@@ -1,0 +1,218 @@
+.body{
+    height: 2300px;
+    width: 1920px;
+}
+.container{
+    font-family: poppins;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: middle;
+    width: 1920px; height: 65px;
+    position: fixed;
+    background-color: white;
+    z-index: 1;
+    text-align: center;
+}
+.ul{
+    vertical-align: middle;
+    display: inline-block;
+    font-weight: 400;
+}
+.element-1 {
+    height: 29px;
+    vertical-align: middle;
+    display: inline-block;    
+}
+.element-2 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 25px;
+     vertical-align: middle;
+    display: inline-block;
+    margin-right: 195px;    
+}
+.ll {
+    color: #6B77E5;
+}
+.element-3{
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 30px;
+}
+.element-4{
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 30px;
+}
+.element-5{
+    Border: none;
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 30px;
+}
+.pages{
+    Border: none;
+    font-size: 18px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.element-6{
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 30px;
+}
+.element-7{
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 30px;
+}
+.element-8{
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 40px;
+}
+.element-9{
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #6B77E5;
+    height: 65px;
+    width: 184px;
+    position: relative;
+}
+.element-10 {
+    font-family: 'Cabin';
+    font-size: 18px;
+    color: aliceblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 114px;     
+}
+
+/* section styles */
+.section-1 {
+    width: 1220px;
+    height: 510px;
+    padding-top: 254px;
+    padding-left: 340px;
+    margin-bottom: 60px;
+}
+.element-11{
+    text-align: center;
+    font-family: 'Poppins';
+    line-height: 48px;
+    margin-bottom: 41px;
+}
+.element-11-1{
+    font-weight: 500;
+}
+.element-11-2{
+   font-size: 40px;
+   font-weight: 700;
+}
+.element-12 {
+    display: inline-block;   
+}
+.element-13{
+    font-family: 'Cabin';
+    width: 386px;
+    height: 383px;
+    background-color: #F4F4F4;
+    margin-top: 41px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 9px;
+}
+.element-13-1-1{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 58px;
+    padding-bottom: 16px;
+}
+.element-13-1-2 {
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+    text-align: center;
+    color: #7D7D7D;
+}
+.element-13-1-3{
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 37px;
+    padding-bottom: 12px;
+    color: #6B77E5;
+}
+.section-2 {
+    padding-bottom: 257px;
+}
+.element-14-1{
+    position: absolute;
+}
+.element-15{
+  position: relative;
+  text-align: center;
+  padding-top: 143px;
+}
+.element-15-1{
+    font-family: 'Cabin';
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 18px;
+    line-height: 26px;
+}
+.element-15-2{
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.element-15-4 {
+    padding-top: 47px;
+}
+.section-3{
+    width: 1220px;
+    margin-left: 348px;
+}
+
+  /*  image */
+.element-16-1{
+    position: relative;
+    max-width: 100%;
+    margin: 9px;
+}
+  
+  /* all element */
+.element-16 {
+    display: inline-block;
+}
+
+  /* text block */
+.element-16-2{
+    height: 386px;
+    width: 532px;
+    width: 341px;
+    height: 114px;
+    background-color: aliceblue;
+    text-align: center;
+    position: absolute;
+    bottom: -6%;
+    left: 50%;
+    transform: translate(-50%, -50%);  
+}
+.element-16-3{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    padding-top: 24px;
+  }
+.element-16-4{
+  font-family: 'Cabin';
+  font-size: 18px;
+  font-weight: 400;
+}

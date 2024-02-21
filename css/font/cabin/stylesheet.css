@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Cabin';
+    src: url('../cabin/Cabin-SemiBold.eot');
+    src: url('../cabin/Cabin-SemiBold.eot') format('embedded-opentype'),
+        url('../cabin/Cabin-SemiBold.woff2') format('woff2'),
+        url('../cabin/Cabin-SemiBold.woff') format('woff'),
+        url('../cabin/Cabin-SemiBold.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
